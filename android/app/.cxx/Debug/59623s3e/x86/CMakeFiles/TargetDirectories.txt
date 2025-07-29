@@ -1,0 +1,2 @@
+C:/Users/tatab/StudioProjects/flutter_book_geolocation/android/app/.cxx/Debug/59623s3e/x86/CMakeFiles/edit_cache.dir
+C:/Users/tatab/StudioProjects/flutter_book_geolocation/android/app/.cxx/Debug/59623s3e/x86/CMakeFiles/rebuild_cache.dir
